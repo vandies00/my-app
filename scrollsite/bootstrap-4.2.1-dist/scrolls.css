@@ -1,0 +1,49 @@
+body {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-color: #333;
+}
+
+.impophone{
+    position: absolute;
+    width: 60%;
+    padding-top: 5%;
+    padding-left: 10em;
+    z-index: 10000;
+}
+
+.fullheight{
+    padding: 40px;
+    /* height: 100vh; */
+    height:100% !important
+}
+.smallerpic{
+    
+    width: 50%;
+    padding-top: 5%;
+}
+
+.imgphone{
+    width: 60%;
+    padding-top: 5%;
+    padding-left: 10em;
+}
+.mcontent{
+    /* margin-top: auto;
+    margin-bottom: auto; */
+    padding-top: 5%;
+
+}
+
+.texti{
+    font-size: 20px;
+}
+
+#fp-nav ul li a span{
+    background-color: white !important
+}
+
+
+
+
